@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">test-bug</string>
+    <string name="title_activity_main">test-bug</string>
+    <string name="package_name">jeep.test.bug</string>
+    <string name="custom_url_scheme">jeep.test.bug</string>
+</resources>

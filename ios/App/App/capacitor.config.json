@@ -1,0 +1,6 @@
+{
+	"appId": "jeep.test.bug",
+	"appName": "test-bug",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
